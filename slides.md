@@ -10,8 +10,8 @@ class: center, middle, inverse
 #### So I'm not familiar with Mathmatics...
 ---
 layout:false
+# スライド１
 ## スライド１
-### スライド１
 ２ページ目
 
 * コードを書く
