@@ -39,6 +39,15 @@ abc
 ### スライド３
 ４ページ目
 
+
+---
+## References
+### Group Theory
+- https://www.youtube.com/watch?v=VdLhQs_y_E8
+Nice Lecture.
+- 『代数学１、２、３』　雪江　明彦著
+
+
 * リンクを貼る
 
 __[Google](https://www.google.co.jp/)__
