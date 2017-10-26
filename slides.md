@@ -10,7 +10,7 @@ class: center, middle, inverse
 #### So I'm not familiar with Mathmatics...
 ---
 layout:false
-# スライド１
+# Agenda
 ## スライド１
 ２ページ目
 
