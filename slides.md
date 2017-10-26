@@ -8,9 +8,11 @@ class: center, middle, inverse
 ##### So I'm not familiar with Mathmatics...
 ---
 layout:false
-# Agenda
-### スライド１
+## Agenda
+- ### スライド１
 ２ページ目
+
+- here
 
 * コードを書く
 ```
