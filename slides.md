@@ -33,20 +33,21 @@ layout:false
 ４ページ目
 
 
+```latex
+\alpha = \beta
+```
+
 ---
 ## 6. References
 ### Group Theory
 - https://www.youtube.com/watch?v=VdLhQs_y_E8
--- Harvard lecture videos  about Group theory on Youtube.
+    - Harvard lecture videos  about Group theory on Youtube.
 - 『代数学１、２、３』　雪江　明彦著
--- Japanese good reference book about Group theory.
+    - Japanese good reference book about Group theory.
+    
 ### Homology
 - https://www.youtube.com/watch?v=EA1FFtTGAfw
--- American university's lecture video about introduction and aplication to homology on Youtube.
+    - American university's lecture video about introduction and aplication to homology on Youtube.
 - 『タンパク質構造とトポロジー ―パーシステントホモロジー群入門― (シリーズ・現象を解明する数学)』　平岡 裕章著
--- Japanese book about aplication to persistent homology.
+    - Japanese book about aplication to persistent homology.
 
-
-* リンクを貼る
-
-__[Google](https://www.google.co.jp/)__
