@@ -3,9 +3,9 @@ layout: true
 class: center, middle, inverse
 ---
 # Introduciton to TDA
-##### Koji Ono
-##### My Major was biology.
-##### So I'm not familiar with Mathmatics...
+### Koji Ono
+#### My Major was biology.
+#### So I'm not familiar with Mathmatics...
 ---
 layout:false
 ## Agenda
@@ -37,8 +37,14 @@ layout:false
 \alpha = \beta
 ```
 
+2. More `\(x={a \over b}\)` formulae.
+ 
+Display formula:
+
+$$e^{i\pi} + 1 = 0$$
+
 ---
-## 6. References
+## 6. References 1
 ### Group Theory
 - https://www.youtube.com/watch?v=VdLhQs_y_E8
     - Harvard lecture videos  about Group theory on Youtube.
@@ -54,6 +60,10 @@ layout:false
     - Good review.
 - 『Computational Homology (Applied Mathematical Sciences)』(2004)
     - There are a lot of information that homology is applied for image data.
+
+---
+## 6. References 2
+### Homology
 - 『Elementary Applied Topology』(2014)
     - It is said that this book is good, but I don't know well.
 - 『計算で身につくトポロジー』 阿原 一志著
