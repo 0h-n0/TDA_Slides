@@ -83,18 +83,19 @@
 <body>
   <!-- Remarkjs -->
   <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript"></script></script>
+  <script src="http://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
   <script type="text/javascript">
     <!-- sample.md -->
     var slideshow = remark.create({sourceUrl: "slides.md"});
-      MathJax.Hub.Config({
-          tex2jax: {
-          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-          }
-      });
-      MathJax.Hub.Configured();    
+    MathJax.Hub.Config({
+    tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+    });
+    MathJax.Hub.Configured();    
   </script>    
-  <script src="http://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+  
 
 </body>
 </html>

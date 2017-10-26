@@ -3,7 +3,7 @@ layout: true
 class: center, middle, inverse
 ---
 # Introduciton to TDA
-### Koji Ono
+#### Koji Ono
 #### My Major was biology.
 #### So I'm not familiar with Mathmatics...
 ---
