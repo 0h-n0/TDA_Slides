@@ -50,4 +50,11 @@ layout:false
     - American university's lecture video about introduction and aplication to homology on Youtube.
 - 『タンパク質構造とトポロジー ―パーシステントホモロジー群入門― (シリーズ・現象を解明する数学)』　平岡 裕章著
     - Japanese book about aplication to persistent homology.
-
+- 『A roadmap for the computation of persistent homology』(2015) Nina et. al.
+    - Good review.
+- 『Computational Homology (Applied Mathematical Sciences)』(2004)
+    - There are a lot of information that homology is applied for image data.
+- 『Elementary Applied Topology』(2014)
+    - It is said that this book is good, but I don't know well.
+- 『計算で身につくトポロジー』 阿原 一志著
+    - This is one of the book I want.
