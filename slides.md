@@ -2,8 +2,10 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
+# Introduciton to TDA
+Koji Ono
+My Major was biology.
+So I'm not familiar with Mathmatics...
 ---
 layout:false
 ## スライド１
