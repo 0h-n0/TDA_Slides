@@ -16,13 +16,6 @@ layout:false
 ### 5. Let's caluculate Homology.
 ### 6. References
 
-- here
-
-* コードを書く
-```
-// コードを書く
-abc
-```
 ---
 ## スライド２
 ### スライド２
@@ -44,7 +37,7 @@ abc
 ## References
 ### Group Theory
 - https://www.youtube.com/watch?v=VdLhQs_y_E8
-Nice Lecture.
+-- Nice Lecture.
 - 『代数学１、２、３』　雪江　明彦著
 
 
