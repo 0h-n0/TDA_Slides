@@ -238,7 +238,7 @@ $$
 $$
 \begin{array}
 
-CCC CCC_1 = \{a,b,c,d,e\} \\
+\\\C_1 = \{a,b,c,d,e\} \\
 C_2 = \{[a,b], [c,d]\}
 \end{array}
 $$
@@ -252,9 +252,9 @@ $$
 
 $$
 \begin{array}
-C_1 = \{a,b,c,d,e\} \\
-C_2 = \{[a,b],[a,d],[b,c],[c,d],[c,e]\} \\
-C_3 = \{[a,d,c]\}
+\\\C_1 = \\{a,b,c,d,e\\} \\\
+C_2 = \\{[a,b],[a,d],[b,c],[c,d],[c,e]\\} \\\
+C_3 = \\{[a,d,c]\\}
 \end{array}
 $$
 
