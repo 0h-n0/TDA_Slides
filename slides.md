@@ -208,6 +208,19 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 ###### Ref:『A roadmap for the computation of persistent homology』(2015) Nina et. al.
 
 ---
+
+## 5. Let's caluculate low-dimension Homology.
+$$
+\begin{array}
+\\\C_0 = \\{a,b,c,d,e\\} \\\
+C_1 = \\{[a,b]\\} \\\
+K = C_0 \cup C_1
+\end{array}
+$$
+
+.center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)]
+
+---
 ## 5. Let's caluculate low-dimension Homology.
 
 $$ 0 \to C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
