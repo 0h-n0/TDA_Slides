@@ -57,8 +57,6 @@ To find out "Topological Invariant.
 
 .emphasize[One of the machine learning method.]
 
--- 
-
 .left-column[
 ### Supervised
 - Nerural Network
@@ -77,6 +75,8 @@ To find out "Topological Invariant.
 - Clustering(non-hirerarchical)
 - etc.
 ]
+
+![Default-aligned image](https://i.ytimg.com/vi/TDL8WbnBvyo/hqdefault.jpg)
 
 --
 
