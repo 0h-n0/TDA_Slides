@@ -50,7 +50,7 @@ def random(seed, nsample):
     dmat = dist.cdist(xy, xy)
     fargs = [fig, x, y, xy, dmat]
     ani = animation.FuncAnimation(fig, plot, frames=range(100), fargs=fargs, interval=100)
-    ani.save("random.mp4")
+    ani.save("random.mpeg")
 
 @ex.capture    
 def circle(seed, nsample, scale):
@@ -64,7 +64,7 @@ def circle(seed, nsample, scale):
     dmat = dist.cdist(xy, xy)
     fargs = [fig, x, y, xy, dmat]
     ani = animation.FuncAnimation(fig, plot, frames=range(100), fargs=fargs, interval=100)
-    ani.save("circle.mp4")
+    ani.save("circle.mpeg")
 
 @ex.command
 def example(seed):
