@@ -76,7 +76,7 @@ def example(seed):
     x = xy[:,0]
     y = xy[:,1]
     dmat = dist.cdist(xy, xy)
-    r = 0.1
+    r = 0.3
     seq = 'abcde'
     for i in range(nsample):
         c = plt.Circle((x[i], y[i]), r, color='r', alpha=0.1)
