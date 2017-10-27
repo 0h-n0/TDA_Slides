@@ -214,7 +214,7 @@ $$
 \begin{array}
 \\\C_{1+2} = \\{a,b,c,d,e\\} \\\
 C_2 = \\{[a,b]\\} \\\
-K = \\\C_{1+2} \cup C_2
+K = C_1 \cup C_2
 \end{array}
 $$
 
@@ -224,11 +224,22 @@ $$
 $$C_1$$
 
 $$
-A = \left(
-\begin{array}{ccc}
-    a & b & c \\\
-    d & e & f \\\
-    g & h & i
+a = \left(
+\begin{array}{c}
+    1  \\\
+    0  \\\
+    0  \\\
+    0  \\\
+    0 
+\end{array}\right)
+,
+b = \left(
+\begin{array}{c}
+    0  \\\
+    b  \\\
+    0  \\\
+    0  \\\
+    0 
 \end{array}\right)
 $$
 ---
@@ -237,7 +248,6 @@ $$
 
 $$
 \begin{array}
-
 \\\C_1 = \{a,b,c,d,e\} \\
 C_2 = \{[a,b], [c,d]\}
 \end{array}
