@@ -122,6 +122,8 @@ There are a lot of Application of TDA in Biology.
 
 ## 3. Homology.
 
+Homology is a way to uncover k-dimensional "holes" in  a simplical complex.
+
 ###  Defintion of Homology Group.
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
@@ -134,7 +136,6 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 ####  Simple Complex
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
-
 
 ---
 
@@ -154,7 +155,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
- Z_k := ker ( \partial_k : C_k \to C\_k) \\ 
+\Z_k := ker ( \partial_k : C_k \to C\_k\_1) \\ 
 \end{array}
 $$
 
