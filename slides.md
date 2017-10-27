@@ -92,6 +92,9 @@ To find out "Topological Invariant.
 <video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4?raw=true" type="video/mp4" /></video>
 ]
 
+
+--- 
+
 --- 
 ## 1. What is TDA? (Overview of TDA)
 
@@ -104,7 +107,7 @@ To find out "Topological Invariant.
 ---
 ## 2. Application.
 
-There are A lot of Application of TDA in Bioloby.
+There are a lot of Application of TDA in Biology.
 
 * Sensor-network coverage
 * Proteins
@@ -112,7 +115,7 @@ There are A lot of Application of TDA in Bioloby.
 * Development of cells
 * robotics
 * signals in images
-* ...
+* ... etc
 
 ---
 
@@ -146,8 +149,18 @@ $${\mathbb K} : \subset K^0 \subset K^1 \cdots \subset K^t \subset \cdots$$
 , k-dimension Persistent Homology Group is
 
 
-
 $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
+
+$$k-cycles: Z_k := ker(\round_k : C_k \to C_{k-1}) $$
+$$k-boundaries: B_k := im(\round_{k+1} : C_{k+1} \to C_{k}) $$
+
+--
+
+...
+
+--
+
+...
 
 ---
 
