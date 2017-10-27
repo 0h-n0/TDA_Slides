@@ -156,13 +156,14 @@ It is too difficult to understand all of previous equations.
 
 --
 
-We want to know how to calculate it and the meaning of homology
+We want to know how to calculate it and the meaning of k-dimensional homology
 
+--
 
-##### `\(H_k\)`
-
-#### Let's 
-
+$$
+\beta_k(K) := dim H_p(K) = dim kernel(d_p) - dim image(d(p+1))
+$$
+is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 
 ---
 ## 3. Homology.
@@ -172,7 +173,7 @@ We want to know how to calculate it and the meaning of homology
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
 
 - Cach complex
--
+- etc..
 
 ---
 
