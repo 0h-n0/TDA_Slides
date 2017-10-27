@@ -84,24 +84,21 @@ To find out "Topological Invariant.
 **TDA** is similar to Clustering(non-hirerarchical method)
 
 ---
-
 ## 1. What is TDA? (Overview of TDA)
 
 #### Random data
 
 .center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4" type="video/mp4" /></video>
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4?raw=true" type="video/mp4" /></video>
 ]
 
 --- 
-
-
 ## 1. What is TDA? (Overview of TDA)
 
 #### Cicle data 
 
 .center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4" type="video/mp4" /></video>
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4?raw=true" type="video/mp4" /></video>
 ]
 
 ---
