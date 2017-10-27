@@ -48,9 +48,9 @@ name: agenda
 
 --
 
-.emphasize[ These mathematical methods are for analyzing **phase**. ]
+###### These mathematical methods are for analyzing **phase**. 
 
-.emphasize[ To find out "Topological Invariant"]
+###### To find out "Topological Invariant
     
 ???
 smoe note.
