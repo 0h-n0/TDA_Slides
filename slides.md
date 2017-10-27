@@ -94,6 +94,7 @@ To find out "Topological Invariant.
 
 
 --- 
+## 1. What is TDA? (Overview of TDA)
 
 --- 
 ## 1. What is TDA? (Overview of TDA)
@@ -151,11 +152,13 @@ $${\mathbb K} : \subset K^0 \subset K^1 \cdots \subset K^t \subset \cdots$$
 
 $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
-$$k-cycles: Z_k := ker(\round_k : C_k \to C_{k-1}) $$
-$$k-boundaries: B_k := im(\round_{k+1} : C_{k+1} \to C_{k}) $$
+$$k-cycles: Z_k := ker(\round_k : C_k \to C_{k-1})$$
 
+$$k-boundaries: B_k := im(\round_{k+1} : C_{k+1} \to C_{k})$$
+
+---
+## 4. Persistent Homology.
 --
-
 ...
 
 --
