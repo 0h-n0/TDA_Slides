@@ -100,7 +100,7 @@ To find out "Topological Invariant.
 #### Circle data
 
 .center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mpeg?raw=true" type="video/mpeg" /></video>
 ]
 
 
@@ -329,8 +329,8 @@ $$
 
 ---
 
-This is just introduction of TDA.
-There is a deep deep mathematical world in TDA...
+# This is just introduction of TDA.
+# There is a deep deep mathematical world in TDA...
 
 ---
 ## 6. References 1
