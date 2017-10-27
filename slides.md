@@ -35,7 +35,7 @@ name: agenda
 ---
 ## 1. What is TDA? (Overview of TDA)
 
-###### **TDA** stands for **T**oplogical **D**ata **A**nalysis
+### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
 - ".red.bold[Topological]" means ...
     - Differential topology.
@@ -46,9 +46,9 @@ name: agenda
 
 --
 
-###### These mathematical methods are for analyzing **phase**. 
+### These mathematical methods are for analyzing **phase**. 
 
-###### To find out "Topological Invariant.
+### To find out "Topological Invariant.
     
 
 ---
