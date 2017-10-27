@@ -9,23 +9,43 @@ class: center, middle, inverse
 ---
 layout:false
 ## Agenda
+
 ### 1. What is TDA? (Overview of TDA)
+
 --
+
 ### 2. Application.
+
 --
+
 ### 3. Homology.
+
 --
+
 ### 4. Persistent Homology.
+
+--
+
 ### 5. Let's caluculate Homology.
+
+--
+
 ### 6. References
 
 
 ---
 ## 1. What is TDA? (Overview of TDA)
+
 #### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
 - **Topological** means ...
+
+--
+
     - Differential topology.
+
+--
+
     - Geometric topology.
     - Homotopy theory.
     - Homology.
