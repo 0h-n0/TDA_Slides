@@ -99,7 +99,7 @@ To find out "Topological Invariant.
 #### Circle data
 
 .center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mpeg?raw=true" type="video/mpeg" /></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s68wzC4ngZA" frameborder="0" gesture="media" allowfullscreen></iframe>
 ]
 
 ---
