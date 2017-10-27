@@ -161,8 +161,7 @@ We want to know how to calculate it and the meaning of k-dimensional homology
 --
 
 $$
-\beta_k(K) &:= dim H_p(K) \\ 
-&= dim kernel(d_p) - dim image(d(p+1))
+\beta_k(K) := dim H_p(K) = dim(ker(d_p) - dim(im(d(p+1)))
 $$
 is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 
@@ -174,10 +173,8 @@ is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
 ###### Ref:『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
 
-
-
-
 - Cach complex
+- Vietoris-Rips complex
 - etc..
 
 ---
@@ -204,9 +201,8 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/barcode_image.png)
 
-.footnote[
-    Ref:『A roadmap for the computation of persistent homology』(2015) Nina et. al.
-]
+###### Ref:『A roadmap for the computation of persistent homology』(2015) Nina et. al.
+
 ---
 
 ## 5. Let's caluculate low-dimension Homology.
