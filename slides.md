@@ -95,17 +95,6 @@ To find out "Topological Invariant.
 ]
 
 
---- 
-## 1. What is TDA? (Overview of TDA)
-
---- 
-## 1. What is TDA? (Overview of TDA)
-
-#### Cicle data 
-
-.center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
-]
 
 ---
 ## 2. Application.
@@ -120,6 +109,16 @@ There are a lot of Application of TDA in Biology.
 * signals in images
 * ... etc
 
+--- 
+## 1. What is TDA? (Overview of TDA)
+
+#### Cicle data 
+
+.center[
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
+]
+
+
 ---
 
 ## 3. Homology.
@@ -132,7 +131,6 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 
 ---
-
 ## 3. Homology.
 
 ####  Simple Complex
