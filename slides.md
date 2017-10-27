@@ -138,7 +138,7 @@ $$
 
 $$
 \begin{array}
-B_k := Im ( \partial(k+1) : C_{k+1} \to C_k) \\ 
+B_k := Im ( \partial(k+1) : C\\_{k+1} \to C_k) \\ 
 \end{array}
 $$
 
