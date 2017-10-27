@@ -172,6 +172,11 @@ is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 ####  Simplical Complex
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
+.footnote[
+    Ref:『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
+]
+
+
 
 - Cach complex
 - etc..
@@ -200,16 +205,14 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/barcode_image.png)
 
---
-...
-
---
-
-...
-
+.footnote[
+    Ref:『A roadmap for the computation of persistent homology』(2015) Nina et. al.
+]
 ---
 
-## 5. Let's caluculate Homology.
+## 5. Let's caluculate low-dimension Homology.
+
+
 
 ---
 ## 6. References 1
