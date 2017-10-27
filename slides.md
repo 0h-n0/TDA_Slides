@@ -211,7 +211,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 ## 5. Let's caluculate low-dimension Homology.
 
 $$ 0 \rightarrow{\partial_0} C_1 \to C_0 $$
-
+$$ $\xrightarrow{\text{text}\int}$ $$
 $$
 C_0 = \\{
 a = \left(
