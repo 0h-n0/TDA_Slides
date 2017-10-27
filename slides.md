@@ -322,7 +322,7 @@ $$
 \begin{array}
 \\\dim(H_1(K)) &= dim(ker(\partial_1)) - dim(im(\partial_2)) \\\
 & = 5 - 2 = 3  \\\
-\\\dim(H_0(K)) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
+dim(H_0(K)) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 & = 5 - 2 = 3
 \end{array}
 $$
