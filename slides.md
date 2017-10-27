@@ -18,7 +18,17 @@ layout:false
 
 ---
 ## 1. What is TDA? (Overview of TDA)
-### スライド２
+### One of the machine learning method.
+
+- Machine Learning.
+    - Supervised
+        - Nerural Network, SVN, Bayeasian etc.
+    - Unsupervised
+        - PCA, Clustering(hierachical-method non-hirerarchical method) etc. 
+        
+*TDA* is similar to Clustering(non-hirerarchical method)
+
+
 ３ページ目
 .left-column[
 * 左に書く
