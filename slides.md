@@ -232,7 +232,6 @@ $$
     0  \\\
     0 
 \end{array}\right)
-\\}
 $$  
 
 $$ 
@@ -306,7 +305,7 @@ $$
     0 
 \end{array}\right)
 ,
-\partial_1 = \left(
+\partial_1(not correct) = \left(
 \begin{array}{ccccc}
     1 & 1 & 0 & 0 & 0\\\
     1 & 0 & 1 & 0 & 0\\\
@@ -327,8 +326,8 @@ $$
 
 ---
 
-### This is just introduction of TDA.
-### There is a deep deep mathematical world in TDA...
+## This is just introduction of TDA.
+## There is a deep deep mathematical world in TDA...
 
 ---
 ## 6. References 1
