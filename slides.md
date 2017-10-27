@@ -57,7 +57,7 @@ To find out "Topological Invariant.
 
 .emphasize[One of the machine learning method.]
 
-.emphasize[Machine Learning.]
+-- 
 
 .left-column[
 ### Supervised
@@ -67,15 +67,20 @@ To find out "Topological Invariant.
 - etc.
 
 ]
+
+--
+
 .right-column[
 ###Unsupervised
 - PCA
-- Clustering(hierachical-method)
-- Clustering(non-hirerarchical method) ex) k-means 
+- Clustering(hierachical)
+- Clustering(non-hirerarchical)
 - etc.
 ]
 
-###### **TDA** is similar to Clustering(non-hirerarchical method)
+--
+
+**TDA** is similar to Clustering(non-hirerarchical method)
 
 ---
 
