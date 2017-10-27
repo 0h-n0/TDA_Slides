@@ -133,7 +133,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 ####  Simple Complex
 
-![Default-aligned image](https://github.com/0h-n0/TDA_Slides/blob/images/src/journal.pone.0126383.g001.PNG?raw=true)
+![Default-aligned image](https://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/journal.pone.0126383.g001.PNG)
 
 ---
 
