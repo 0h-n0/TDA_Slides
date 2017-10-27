@@ -137,7 +137,9 @@ $$
 #### k-boundaries
 
 $$
-B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
+\begin{array}
+B_k := Im ( \partial(k+1) : C_{k+1} \to C_k) \\ 
+\end{array}
 $$
 
 ---
@@ -161,7 +163,9 @@ We want to know how to calculate it and the meaning of k-dimensional homology
 --
 
 $$
-\beta_k(K) := dim H_p(K) = dim(ker(d_p) - dim(im(d(p+1)))
+\begin{array}
+\beta_k(K) := dim H_p(K) = dim(ker(d_p) - dim(im(d_{p+1}))
+\end{array}
 $$
 is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 
