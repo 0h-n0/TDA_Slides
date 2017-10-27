@@ -218,13 +218,13 @@ K = C_0 \cup C_1
 \end{array}
 $$
 
-![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)
+.center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)]
 
 ---
-$$ 0 \to C_0 \to C_1 $$
+$$ 0 \arrow{r}{\partial_} C_1 \to C_0 $$
 
 $$
-C_1 = \\{
+C_0 = \\{
 a = \left(
 \begin{array}{c}
     1  \\\
@@ -270,7 +270,7 @@ e = \left(
 $$
 
 $$
-C2 = \left(
+C_1 = \left(
 \begin{array}{ccccc}
     0 & 0 & 0 & 0 & 0 \\\
     0 & 0 & 0 & 0 & 0 \\\
@@ -284,9 +284,9 @@ $$
 ## 5. Let's caluculate low-dimension Homology.
 $$
 \begin{array}
-\\\C_1 = \\{a,b,c,d,e\\} \\\
-C_2 = \\{[a,b], [c,d]\\}
-K = C_1 \cup C_2
+\\\C_0 = \\{a,b,c,d,e\\} \\\
+C_1 = \\{[a,b], [c,d]\\} \\\
+K = C_0 \cup C_1
 \end{array}
 $$
 
@@ -298,10 +298,10 @@ $$
 
 $$
 \begin{array}
-\\\C_1 = \\{a,b,c,d,e\\} \\\
-C_2 = \\{[a,b],[a,d],[b,c],[c,d],[c,e]\\} \\\
-C_3 = \\{[a,d,c]\\}
-K = C_1 \cup C_2 \cup C_3
+\\\C_0 = \\{a,b,c,d,e\\} \\\
+C_1 = \\{[a,b],[a,d],[b,c],[c,d],[c,e]\\} \\\
+C_2 = \\{[a,d,c]\\} \\\
+K = C_0 \cup C_1 \cup C_2
 \end{array}
 $$
 
