@@ -299,7 +299,7 @@ $$
 $$ 0 \to C_2 \xrightarrow{\partial_2} C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
 
 $$ 
-\partial_1 = \left(
+\partial_2 = \left(
 \begin{array}{c}
     1  \\\
     0  \\\
@@ -308,7 +308,7 @@ $$
     0 
 \end{array}\right)
 ,
-\partial_2 = \left(
+\partial_1 = \left(
 \begin{array}{ccccc}
     1 & 1 & 0 & 0 & 0\\\
     1 & 0 & 1 & 0 & 0\\\
@@ -321,9 +321,9 @@ $$
 $$ 
 \begin{array}
 \\\dim(H_1(K)) &= dim(ker(\partial_1)) - dim(im(\partial_2)) \\\
-& = 5 - 2 = 3  \\\
+& = 1 - 1 = 0  \\\
 dim(H_0(K)) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
-& = 5 - 2 = 3
+& = 5 - 4 = 1
 \end{array}
 $$
 
