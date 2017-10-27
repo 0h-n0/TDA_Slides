@@ -152,7 +152,12 @@ It is too difficult to understand all of previous equations.
 ...
 
 --
-...?
+...
+
+--
+
+#### Let's 
+
 
 ---
 ## 3. Homology.
@@ -160,6 +165,9 @@ It is too difficult to understand all of previous equations.
 ####  Simplical Complex
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
+
+- Cach complex
+-
 
 ---
 
