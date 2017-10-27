@@ -35,9 +35,7 @@ name: agenda
 ---
 ## 1. What is TDA? (Overview of TDA)
 
-#### **TDA** stands for **T**oplogical **D**ata **A**nalysis
-
-
+###### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
 - ".red.bold[Topological]" means ...
     - Differential topology.
@@ -50,17 +48,14 @@ name: agenda
 
 ###### These mathematical methods are for analyzing **phase**. 
 
-###### To find out "Topological Invariant
+###### To find out "Topological Invariant.
     
-???
-smoe note.
-
 
 ---
 ## 1. What is TDA? (Overview of TDA)
-#### * One of the machine learning method.
+###### One of the machine learning method.
 
-##### Machine Learning.
+###### Machine Learning.
 
 .left-column[
 ### Supervised
@@ -78,7 +73,8 @@ smoe note.
 - etc.
 ]
 
-> **TDA** is similar to Clustering(non-hirerarchical method)
+###### **TDA** is similar to Clustering(non-hirerarchical method)
+
 ---
 
 
