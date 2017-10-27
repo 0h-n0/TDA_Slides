@@ -207,7 +207,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ## 5. Let's caluculate low-dimension Homology.
 
-`(H_k)`
+\(H_k\)
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)
 
@@ -215,7 +215,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ## 5. Let's caluculate low-dimension Homology.
 
-`(H_k)`
+\(H_k\)
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.2.png)
 
@@ -223,7 +223,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ## 5. Let's caluculate low-dimension Homology.
 
-`(H_k)`
+`\(H_k\)`
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.3.png)
 
