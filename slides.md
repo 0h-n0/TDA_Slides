@@ -41,7 +41,7 @@ name: agenda
 
 #### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
-- .red.bold[Topological] means ...
+- .footnote[.red.bold[Topological] means] ...
 
 --
 
