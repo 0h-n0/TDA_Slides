@@ -226,11 +226,24 @@ $$C_1$$
 $$
 a = 
 \begin{pmatrix}
-1 \\\ 0 \\\ 0 \\\0 \\\ 0 
+1 \\\ 0
 \end{pmatrix}
 
 $$
+$$
+\[
+\begin{array}{lc}
+      \ Mat_{\varPhi to M} & \left(\begin{array}{@{}ccccc@{}}
+            1 & 1 & 1 & 1 & 1 \\
+            0 & 1 & 0 & 0 & 1 \\
+            0 & 0 & 1 & 0 & 1 \\
+            0 & 0 & 0 & 1 & 1 \\
+            0 & 0 & 0 & 0 & 1
+              \end{array}\right) \\[15pt]
+    \end{array}
 
+\]
+$$
 ---
 
 ## 5. Let's caluculate low-dimension Homology.
