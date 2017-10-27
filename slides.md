@@ -124,7 +124,7 @@ TDA is based on .red[Homology] which is defined in mathematical Group theory.
 
 Homology is a way to uncover k-dimensional "holes" in  a simplical complex.
 
-###  Defintion of k-dimensional Homology Group.
+###  Definition of k-dimensional Homology Group.
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
 
@@ -159,7 +159,7 @@ It is too difficult to understand all of previous equations.
 We want to know how to calculate it and the meaning of homology
 
 
-##### `H_k`
+##### `\(H_k\)`
 
 #### Let's 
 
@@ -178,7 +178,7 @@ We want to know how to calculate it and the meaning of homology
 
 ## 4. Persistent Homology.
 
-###  Defintion of Persistent Homology Group.
+###  Definition of Persistent Homology Group.
 
 For finite filltration of simple complex
 
