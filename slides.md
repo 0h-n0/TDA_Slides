@@ -85,19 +85,37 @@ To find out "Topological Invariant.
 
 ---
 
+## 1. What is TDA? (Overview of TDA)
+
+#### Random data
+
+.center[
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4" type="video/mp4" /></video>
+]
+
+--- 
 
 
-*  here
+## 1. What is TDA? (Overview of TDA)
 
-2. More `\(x={a \over b}\)` formulae.
- 
-Display formula:
+#### Cicle data 
 
-$$e^{i\pi} + 1 = 0$$
+.center[
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4" type="video/mp4" /></video>
+]
 
 ---
-
 ## 2. Application.
+
+There are A lot of Application of TDA in Bioloby.
+
+* Sensor-network coverage
+* Proteins
+* 3-dimensional sturecture of DNA
+* Development of cells
+* robotics
+* signals in images
+* ...
 
 ---
 
@@ -106,6 +124,16 @@ $$e^{i\pi} + 1 = 0$$
 ###  Defintion of Homology Group.
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
+
+
+---
+
+## 3. Homology.
+
+####  Simple Complex
+
+$$H_k(K) = Z_k(K) / B_k(K)$$
+
 
 ---
 
