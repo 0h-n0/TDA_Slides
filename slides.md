@@ -3,7 +3,7 @@ layout: true
 class: center, middle, inverse
 ---
 # Introduciton to TDA
-##### Koji Ono
+#### Koji Ono
 ##### My Major was biology.
 ##### So I'm not familiar with Mathmatics...
 ---
@@ -16,15 +16,8 @@ layout:false
 ### 5. Let's caluculate Homology.
 ### 6. References
 
-- here
-
-* コードを書く
-```
-// コードを書く
-abc
-```
 ---
-## スライド２
+## 1. What is TDA? (Overview of TDA)
 ### スライド２
 ３ページ目
 .left-column[
