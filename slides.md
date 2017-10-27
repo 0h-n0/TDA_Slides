@@ -239,7 +239,7 @@ $$
 
 $$ 
 \begin{array}
-H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+H_0(K) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 & = 5 - 1 = 4
 \end{array}
 $$
@@ -274,7 +274,7 @@ $$
 
 $$ 
 \begin{array}
-H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+H_0(K) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 & = 5 - 2 = 3
 \end{array}
 $$
@@ -299,6 +299,15 @@ $$
 $$ 0 \to C_2 \xrightarrow{\partial_2} C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
 
 $$ 
+\partial_1 = \left(
+\begin{array}{c}
+    1  \\\
+    0  \\\
+    1  \\\
+    1  \\\
+    0 
+\end{array}\right)
+
 \partial_2 = \left(
 \begin{array}{c}
     1 & 1 & 0 & 0 & 0\\\
@@ -310,19 +319,10 @@ $$
 $$
 
 $$ 
-\partial_1 = \left(
-\begin{array}{c}
-    1  \\\
-    0  \\\
-    1  \\\
-    1  \\\
-    0 
-\end{array}\right)
-$$ 
-
-$$ 
 \begin{array}
-H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+\\\dim(H_1(K)) &= dim(ker(\partial_1)) - dim(im(\partial_2)) \\\
+& = 5 - 2 = 3  \\\
+\\\dim(H_0(K)) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 & = 5 - 2 = 3
 \end{array}
 $$
