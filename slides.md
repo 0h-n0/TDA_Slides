@@ -138,7 +138,7 @@ $$
 
 $$
 \begin{array}
-B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
+\\\B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
 \end{array}
 $$
 
@@ -227,59 +227,22 @@ $$ 0 \to C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
 
 $$
 C_0 = \\{
-a = \left(
+\partial_1 = \left(
 \begin{array}{c}
     1  \\\
-    0  \\\
-    0  \\\
-    0  \\\
-    0 
-\end{array}\right)
-,
-b = \left(
-\begin{array}{c}
-    0  \\\
     1  \\\
     0  \\\
     0  \\\
     0 
-\end{array}\right),
-c = \left(
-\begin{array}{c}
-    0  \\\
-    0  \\\
-    1  \\\
-    0  \\\
-    0 
-\end{array}\right),
-d = \left(
-\begin{array}{c}
-    0  \\\
-    0  \\\
-    0  \\\
-    1  \\\
-    0 
-\end{array}\right),
-e = \left(
-\begin{array}{c}
-    0  \\\
-    0  \\\
-    0  \\\
-    0  \\\
-    1 
 \end{array}\right)
 \\}
-$$
+$$  
 
-$$
-C_1 = \left(
-\begin{array}{ccccc}
-    0 & 0 & 0 & 0 & 0 \\\
-    0 & 0 & 0 & 0 & 0 \\\
-    0 & 0 & 0 & 0 & 0 \\\
-    0 & 0 & 0 & 0 & 0 \\\
-    0 & 0 & 0 & 0 & 0 \\\
-\end{array}\right)
+$$ 
+\begin{array}
+H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+& = 5 - 2 = 3
+\end{array}
 $$
 ---
 
