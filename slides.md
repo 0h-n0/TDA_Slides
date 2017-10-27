@@ -212,7 +212,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
-C_{1+2} = \\{a,b,c,d,e\\} \\\
+\\C_{1+2} = \\{a,b,c,d,e\\} \\\
 C_2 = \\{[a,b]\\} \\\
 K = C_1 \cup C_2
 \end{array}
