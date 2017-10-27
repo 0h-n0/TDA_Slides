@@ -5,7 +5,13 @@ class: center, middle, inverse
 # Introduciton to TDA
 #### 28/10/2017
 #### Koji Ono
-#### My Major was biology.
+
+--
+ 
+#### My major was Biology.
+
+--
+
 #### So I'm not familiar with Mathmatics...
 ---
 layout:false
@@ -15,31 +21,15 @@ name: agenda
 
 ### 1. What is TDA? (Overview of TDA)
 
---
-
 ### 2. Application.
-
---
 
 ### 3. Homology.
 
---
-
 ### 4. Persistent Homology.
-
---
 
 ### 5. Let's caluculate Homology.
 
---
-
 ### 6. References
-
-
----
-## 1. What is TDA? (Overview of TDA)
-s
-.center[<iframe width="640" height="360" src="//www.youtube.com/embed/XfWibrh6stw?rel=0" frameborder="0" allowfullscreen></iframe>]
 
 
 ---
@@ -49,23 +39,18 @@ s
 
 
 
-- .red.bold[Topological] means ...
-
---
-
+- ".red.bold[Topological]" means ...
     - Differential topology.
-
---
-
     - Geometric topology.
-    
     - Homotopy theory.
     - Homology.
     - etc.
 
+--
+
 - These mathematical methods are for analyzing **phase**.
 
-##### To find out "Topological Invariant"
+.emphasize[ To find out "Topological Invariant"]
     
 ???
 smoe note.
