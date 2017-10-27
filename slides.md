@@ -95,7 +95,9 @@ To find out "Topological Invariant.
 ]
 
 ---
-## 1. What is TDA?
+## 1. What is TDA? (Overview of TDA)
+
+#### Random data
 
 .center[
 <video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
@@ -131,7 +133,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 ####  Simple Complex
 
-
+![Default-aligned image](http://journals.plos.org/plosone/article/figure/image?size=large&download=&id=10.1371/journal.pone.0126383.g001)
 
 ---
 
@@ -184,21 +186,23 @@ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
 ### Homology
 - https://www.youtube.com/watch?v=EA1FFtTGAfw
     - American university's lecture videos about introduction and application of homology on Youtube.
-- 『タンパク質構造とトポロジー ―パーシステントホモロジー群入門― (シリーズ・現象を解明する数学)』　平岡 裕章著
-    - Japanese book about application of persistent homology to biology.
-- 『A roadmap for the computation of persistent homology』(2015) Nina et. al.
-    - Good review.
 - 『Computational Homology (Applied Mathematical Sciences)』(2004)
     - There are a lot of information that homology is applied for image data.
-
----
-## 6. References 2
-### Homology
 - 『Elementary Applied Topology』(2014)
     - It is said that this book is good, but I don't know well.
 - 『計算で身につくトポロジー』 阿原 一志著
     - This is one of the book I want.
-    
+
+---
+## 6. References 2
+### Persist Homology
+- 『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
+    - Nice introduction.
+- 『タンパク質構造とトポロジー ―パーシステントホモロジー群入門― (シリーズ・現象を解明する数学)』　平岡 裕章著
+    - Japanese book about application of persistent homology to biology.
+- 『A roadmap for the computation of persistent homology』(2015) Nina et. al.
+    - Good review.
+
 ---
 ## 7. Book list
 
