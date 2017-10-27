@@ -141,6 +141,18 @@ B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\
 $$
 
 ---
+## 3. Homology.
+
+It is too difficult to understand all of previous equations.
+
+--
+...
+
+--
+...
+
+--
+...?
 
 ---
 ## 3. Homology.
