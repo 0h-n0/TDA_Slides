@@ -224,8 +224,10 @@ $$
 $$C_1$$
 
 $$
-a = \begin{pmatrix}1 \\\ 0 \\\ 0 \\\0 \\\ 0end{pmatrix}
-b = \begin{pmatrix}0 \\\ 1 \\\ 0 \\\0 \\\ 0end{pmatrix}
+a = 
+\begin{pmatrix}
+1 \\\ 0 \\\ 0 \\\0 \\\ 0 
+\end{pmatrix}
 
 $$
 
