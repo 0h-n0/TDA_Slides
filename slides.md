@@ -221,10 +221,8 @@ $$
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)
 
 ---
-$$C_1$$
-
 $$
-C_1 = \\{
+C_1 = \\left{
 a = \left(
 \begin{array}{c}
     1  \\\
@@ -266,7 +264,19 @@ e = \left(
     0  \\\
     1 
 \end{array}\right)
-\\}
+\\right}
+$$
+
+$$
+C2 = \left(
+\begin{array}{ccccc}
+    0 & 0 & 0 & 0 & 0 \\\
+    0 & 0 & 0 & 0 & 0 \\\
+    0 & 0 & 0 & 0 & 0 \\\
+    0 & 0 & 0 & 0 & 0 \\\
+    0 & 0 & 0 & 0 & 0 \\\
+\end{array}\right)
+\\right}
 $$
 ---
 
