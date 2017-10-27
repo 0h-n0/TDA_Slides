@@ -16,6 +16,23 @@ layout:false
 ### 5. Let's caluculate Homology.
 ### 6. References
 
+
+---
+## 1. What is TDA? (Overview of TDA)
+#### **TDA** is stands for **T**oplogical **D**ata **A**nalysis
+
+- **Topological**
+    - Differential topology.
+    - Geometric topology.
+    - Homotopy theory.
+    - Homology.
+    - etc.
+
+- These mathematical methods are for analysing phase.
+
+##### To find out "Topological Invariant"
+    
+
 ---
 ## 1. What is TDA? (Overview of TDA)
 #### * One of the machine learning method.
@@ -38,12 +55,8 @@ layout:false
 - etc.
 ]
 
-**TDA** is similar to Clustering(non-hirerarchical method)
+> **TDA** is similar to Clustering(non-hirerarchical method)
 
----
-## スライド３
-### スライド３
-４ページ目
 
 
 ```latex
