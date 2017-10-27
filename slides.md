@@ -117,6 +117,7 @@ There are a lot of Application of TDA in Biology.
 * signals in images
 * ... etc
 
+TDA is based on .red[Homology] which is defined in mathematical Group theory.
 
 ---
 ## 3. Homology.
@@ -139,14 +140,14 @@ $$
 B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
 $$
 
-
+---
 
 ---
 ## 3. Homology.
 
 ####  Simplical Complex
 
-![top-page](https://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/journal.pone.0126383.g001.PNG)
+![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
 
 ---
 
@@ -189,10 +190,11 @@ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
 - 『代数学１、２、３』　雪江　明彦著
     - Japanese good reference book about abstract algebra.
 ---
-## 6. References 1
+## 6. References 2
 ### Homology
-.small[- https://www.youtube.com/watch?v=EA1FFtTGAfw
-    - American university's lecture videos about introduction and application of homology on Youtube. ]
+
+- https://www.youtube.com/watch?v=EA1FFtTGAfw
+    - American university's lecture videos about introduction and application of homology on Youtube. 
 - 『Computational Homology (Applied Mathematical Sciences)』(2004)
     - There are a lot of information that homology is applied for image data.
 - 『Elementary Applied Topology』(2014)
@@ -201,7 +203,7 @@ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
     - This is one of the book I want.
 
 ---
-## 6. References 2
+## 6. References 3
 ### Persist Homology
 - 『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
     - Nice introduction.
