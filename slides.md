@@ -108,15 +108,14 @@ There are a lot of Application of TDA in Biology.
 * signals in images
 * ... etc
 
---- 
+
+---
 ## 1. What is TDA? (Overview of TDA)
 
-#### Cicle data 
-
+#### Circle data 
 
 
 ---
-
 ## 3. Homology.
 
 Homology is a way to uncover k-dimensional "holes" in  a simplical complex.
@@ -131,7 +130,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 ####  Simple Complex
 
-$$H_k(K) = Z_k(K) / B_k(K)$$
+
 
 ---
 
