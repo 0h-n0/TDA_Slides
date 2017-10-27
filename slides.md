@@ -136,7 +136,7 @@ $$
 #### k-boundaries
 
 $$
-\B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
+B_k := Im ( \partial_{k+1} : C(k+1) \to C_k) \\ 
 $$
 
 
