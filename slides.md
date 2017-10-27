@@ -97,7 +97,7 @@ To find out "Topological Invariant.
 ---
 ## 1. What is TDA? (Overview of TDA)
 
-#### Random data
+#### Circle data
 
 .center[
 <video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
@@ -133,7 +133,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 ####  Simple Complex
 
-![Default-aligned image](http://journals.plos.org/plosone/article/figure/image?size=large&download=&id=10.1371/journal.pone.0126383.g001)
+![Default-aligned image](https://github.com/0h-n0/TDA_Slides/blob/images/src/journal.pone.0126383.g001.PNG?raw=true)
 
 ---
 
