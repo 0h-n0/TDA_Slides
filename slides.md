@@ -207,8 +207,11 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 ## 5. Let's caluculate low-dimension Homology.
 
 $$
-C_1 = \{a,b,c,d,e\} \\
-C_2 = \{[a,b]\}
+\begin{array}
+C_1 = \\{a,b,c,d,e\\} \\
+C_2 = \\{[a,b]\\} \\
+K = C_1 \cup C_2
+\end{array}
 $$
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)
@@ -223,8 +226,10 @@ $$\begin{pmatrix}a & b\\\ c & d\end{pmatrix}$$
 ## 5. Let's caluculate low-dimension Homology.
 
 $$
+\begin{array}
 C_1 = \{a,b,c,d,e\} \\
 C_2 = \{[a,b], [c,d]\}
+\end{array}
 $$
 
 
@@ -235,9 +240,11 @@ $$
 ## 5. Let's caluculate low-dimension Homology.
 
 $$
+\begin{array}
 C_1 = \{a,b,c,d,e\} \\
 C_2 = \{[a,b],[a,d],[b,c],[c,d],[c,e]\} \\
 C_3 = \{[a,d,c]\}
+\end{array}
 $$
 
 
