@@ -179,7 +179,7 @@ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
 
 ## 6. References 1
 ### Group Theory
-- https://www.youtube.com/watch?v=VdLhQs_y_E8
+- ##### https://www.youtube.com/watch?v=VdLhQs_y_E8
     - Harvard lecture videos about abstract algebra on Youtube.
 - 『代数学１、２、３』　雪江　明彦著
     - Japanese good reference book about abstract algebra.
