@@ -127,11 +127,22 @@ Homology is a way to uncover k-dimensional "holes" in  a simplical complex.
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
 
+#### k-cycles
+
 $$
 \begin{array}
-\Z_k := ker ( \partial_k : C_k \to C_(k+1)) \\ 
+\Z_k := ker ( \partial_k : C_k \to C(k+1)) \\ 
 \end{array}
 $$
+
+#### k-boundaries
+
+$$
+\begin{array}
+\B_k := Im ( \partial(k+1) : C(k+1) \to C_k) \\ 
+\end{array}
+$$
+
 
 
 ---
