@@ -212,7 +212,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
-\\C_{1+2} = \\{a,b,c,d,e\\} \\\
+\\\C_{1+2} = \\{a,b,c,d,e\\} \\\
 C_2 = \\{[a,b]\\} \\\
 K = C_1 \cup C_2
 \end{array}
@@ -224,24 +224,14 @@ $$
 $$C_1$$
 
 $$
-a = 
-\begin{pmatrix}
-1 \\\ 0
-\end{pmatrix}
-
-$$
-$$
 \[
-\begin{array}{lc}
-      \ Mat_{\varPhi to M} & \left(\begin{array}{@{}ccccc@{}}
-            1 & 1 & 1 & 1 & 1 \\
-            0 & 1 & 0 & 0 & 1 \\
-            0 & 0 & 1 & 0 & 1 \\
-            0 & 0 & 0 & 1 & 1 \\
-            0 & 0 & 0 & 0 & 1
-              \end{array}\right) \\[15pt]
+  A = \left(
+    \begin{array}{ccc}
+      a & b & c \\
+      d & e & f \\
+      g & h & i
     \end{array}
-
+  \right)
 \]
 $$
 ---
