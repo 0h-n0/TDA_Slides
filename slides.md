@@ -124,11 +124,16 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 
 ###  Defintion of Persistent Homology Group.
 
-For finite filltration of simple complex, k-dimension Persistent Homology Group is
+For finite filltration of simple complex
+
+    
+$${\mathbb K} : \in K^0 \in K^1 \cdots \in \in K^t \in \cdots
+
+, k-dimension Persistent Homology Group is
 
 
-$$PH_k({\mathb K}) = Z_k({\mathb K}) / B_k({\mathb K})$$
 
+$$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 ---
 
