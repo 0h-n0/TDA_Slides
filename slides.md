@@ -240,7 +240,8 @@ $$
 
 $$
 \begin{array}
-C_1 = \{a,b,c,d,e\} \\
+
+CCC_1 = \{a,b,c,d,e\} \\
 C_2 = \{[a,b], [c,d]\}
 \end{array}
 $$
