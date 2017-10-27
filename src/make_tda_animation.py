@@ -38,6 +38,7 @@ def config():
     seed = 4 
     nsample = 100
     scale = 0.2
+    output_filename = ""
     
 @ex.capture
 def random(seed, nsample):
@@ -49,8 +50,7 @@ def random(seed, nsample):
     dmat = dist.cdist(xy, xy)
     fargs = [fig, x, y, xy, dmat]
     ani = animation.FuncAnimation(fig, plot, frames=range(100), fargs=fargs, interval=100)
-    plt.show()
-
+    ani.save("random.mp4")
 
 @ex.capture    
 def circle(seed, nsample, scale):
@@ -59,13 +59,12 @@ def circle(seed, nsample, scale):
     theta = np.linspace(0, 2*np.pi, nsample)
     a, b = 1 * np.cos(theta), 1 * np.sin(theta)
     r = np.random.uniform(0.5, 1.0, size=nsample)
-    print(r)
     x, y = r * np.cos(theta) + 0.5 , r * np.sin(theta) + 0.5
     xy = np.vstack([x,y]).T
     dmat = dist.cdist(xy, xy)
     fargs = [fig, x, y, xy, dmat]
     ani = animation.FuncAnimation(fig, plot, frames=range(100), fargs=fargs, interval=100)
-    plt.show()
+    ani.save("circle.mp4")
 
     
 @ex.automain
