@@ -172,9 +172,8 @@ is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 ####  Simplical Complex
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/simplical_complex.png)
-.footnote[
-    Ref:『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
-]
+###### Ref:『Topological Data Analysis of Biological Aggregation Models』(2015) C. M. Topaz et. al.
+
 
 
 
