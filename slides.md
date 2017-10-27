@@ -39,7 +39,15 @@ name: agenda
 ---
 ## 1. What is TDA? (Overview of TDA)
 
+.center[<iframe width="640" height="360" src="//www.youtube.com/embed/XfWibrh6stw?rel=0" frameborder="0" allowfullscreen></iframe>]
+
+
+---
+## 1. What is TDA? (Overview of TDA)
+
 #### **TDA** stands for **T**oplogical **D**ata **A**nalysis
+
+
 
 - .red.bold[Topological] means ...
 
@@ -86,11 +94,9 @@ smoe note.
 ]
 
 > **TDA** is similar to Clustering(non-hirerarchical method)
-
 ---
 
-.center[<iframe width="640" height="360" src="//www.youtube.com/embed/F3muvrYA1EA?rel=0" frameborder="0" allowfullscreen></iframe>]
-Embedded video:
+
 
 *  here
 
