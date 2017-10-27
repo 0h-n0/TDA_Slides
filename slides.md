@@ -155,7 +155,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 $$
 \begin{array}
  Z_k := ker ( \partial_k : C_k \to C_{k+1}) \\ 
- B_k:= Im ( \partial_k+1 : C_k \to )
+ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
 \end{array}
 $$
 
