@@ -272,7 +272,7 @@ $$
 
 $$ 
 \begin{array}
-H_0(K) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
+\\\H_0(K) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 & = 5 - 2 = 3
 \end{array}
 $$
