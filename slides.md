@@ -212,15 +212,17 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
-\\\C_{1+2} = \\{a,b,c,d,e\\} \\\
-C_2 = \\{[a,b]\\} \\\
-K = C_1 \cup C_2
+\\\C_0 = \\{a,b,c,d,e\\} \\\
+C_1 = \\{[a,b]\\} \\\
+K = C_0 \cup C_1
 \end{array}
 $$
 
 ![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.1.png)
 
 ---
+$$ 0 \to C_0 \to C_1 $$
+
 $$
 C_1 = \\{
 a = \left(
@@ -239,7 +241,7 @@ b = \left(
     0  \\\
     0  \\\
     0 
-\end{array}\right)
+\end{array}\right),
 c = \left(
 \begin{array}{c}
     0  \\\
@@ -247,7 +249,7 @@ c = \left(
     1  \\\
     0  \\\
     0 
-\end{array}\right)
+\end{array}\right),
 d = \left(
 \begin{array}{c}
     0  \\\
@@ -255,7 +257,7 @@ d = \left(
     0  \\\
     1  \\\
     0 
-\end{array}\right)
+\end{array}\right),
 e = \left(
 \begin{array}{c}
     0  \\\
@@ -280,15 +282,15 @@ $$
 ---
 
 ## 5. Let's caluculate low-dimension Homology.
-
-![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.2.png)
 $$
 \begin{array}
-\\\C_1 = \{a,b,c,d,e\} \\
-C_2 = \{[a,b], [c,d]\}
+\\\C_1 = \\{a,b,c,d,e\\} \\\
+C_2 = \\{[a,b], [c,d]\\}
+K = C_1 \cup C_2
 \end{array}
 $$
 
+.center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.2.png)]
 
 ---
 
@@ -299,11 +301,11 @@ $$
 \\\C_1 = \\{a,b,c,d,e\\} \\\
 C_2 = \\{[a,b],[a,d],[b,c],[c,d],[c,e]\\} \\\
 C_3 = \\{[a,d,c]\\}
+K = C_1 \cup C_2 \cup C_3
 \end{array}
 $$
 
-
-![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.3.png)
+.center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.3.png)]
 
 ---
 ## 6. References 1
