@@ -327,8 +327,8 @@ $$
 
 ---
 
-# This is just introduction of TDA.
-# There is a deep deep mathematical world in TDA...
+### This is just introduction of TDA.
+### There is a deep deep mathematical world in TDA...
 
 ---
 ## 6. References 1
