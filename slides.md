@@ -102,7 +102,7 @@ To find out "Topological Invariant.
 #### Cicle data 
 
 .center[
-<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/random.mp4?raw=true" type="video/mp4" /></video>
+<video preload="auto" width="70%" height="auto" data-setup="{}" loop controls><source src="https://github.com/0h-n0/TDA_Slides/blob/images/src/circle.mp4?raw=true" type="video/mp4" /></video>
 ]
 
 ---
