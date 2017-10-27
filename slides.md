@@ -161,7 +161,8 @@ We want to know how to calculate it and the meaning of k-dimensional homology
 --
 
 $$
-\beta_k(K) := dim H_p(K) = dim kernel(d_p) - dim image(d(p+1))
+\beta_k(K) &:= dim H_p(K) \\ 
+&= dim kernel(d_p) - dim image(d(p+1))
 $$
 is called pth Betti number of K. pth Betti number 'count' the number of p-holes.
 
@@ -192,11 +193,13 @@ $${\mathbb K} : \subset K^0 \subset K^1 \cdots \subset K^t \subset \cdots$$
 $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 
-???
-B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
-
 ---
 ## 4. Persistent Homology.
+
+#### Barcode
+
+![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/barcode_image.png)
+
 --
 ...
 
