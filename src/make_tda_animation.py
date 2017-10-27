@@ -68,7 +68,7 @@ def circle(seed, nsample, scale):
 
 @ex.command
 def example(seed):
-    fig = plt.figure()    
+    fig = plt.figure(dpi=70)    
     ax = fig.add_subplot(111)
     np.random.seed(seed)
     xy = np.random.random((5, 2))
