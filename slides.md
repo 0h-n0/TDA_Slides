@@ -127,13 +127,19 @@ Homology is a way to uncover k-dimensional "holes" in  a simplical complex.
 
 $$H_k(K) = Z_k(K) / B_k(K)$$
 
+$$
+\begin{array}
+\Z_k := ker ( \partial_k : C_k \to C_(k+1)) \\ 
+\end{array}
+$$
+
 
 ---
 ## 3. Homology.
 
 ####  Simplical Complex
 
-![Default-aligned image](https://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/journal.pone.0126383.g001.PNG)
+![top-page](https://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/journal.pone.0126383.g001.PNG)
 
 ---
 
@@ -151,11 +157,6 @@ $${\mathbb K} : \subset K^0 \subset K^1 \cdots \subset K^t \subset \cdots$$
 
 $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
-$$
-\begin{array}
-\Z_k := ker ( \partial_k : C_k \to C\_i \sum_{k+1}) \\ 
-\end{array}
-$$
 
 ???
 B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
