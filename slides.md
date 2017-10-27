@@ -31,7 +31,6 @@ name: agenda
 
 ### 6. References
 
-
 ---
 ## 1. What is TDA? (Overview of TDA)
 
@@ -55,9 +54,10 @@ To find out "Topological Invariant.
 
 ---
 ## 1. What is TDA? (Overview of TDA)
-###### One of the machine learning method.
 
-###### Machine Learning.
+.emphasize[One of the machine learning method.]
+
+.emphasize[Machine Learning.]
 
 .left-column[
 ### Supervised
