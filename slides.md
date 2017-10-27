@@ -10,8 +10,11 @@ class: center, middle, inverse
 layout:false
 ## Agenda
 ### 1. What is TDA? (Overview of TDA)
+--
 ### 2. Application.
+--
 ### 3. Homology.
+--
 ### 4. Persistent Homology.
 ### 5. Let's caluculate Homology.
 ### 6. References
@@ -19,16 +22,16 @@ layout:false
 
 ---
 ## 1. What is TDA? (Overview of TDA)
-#### **TDA** is stands for **T**oplogical **D**ata **A**nalysis
+#### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
-- **Topological**
+- **Topological** means ...
     - Differential topology.
     - Geometric topology.
     - Homotopy theory.
     - Homology.
     - etc.
 
-- These mathematical methods are for analysing phase.
+- These mathematical methods are for analyzing **phase**.
 
 ##### To find out "Topological Invariant"
     
@@ -57,7 +60,7 @@ layout:false
 
 > **TDA** is similar to Clustering(non-hirerarchical method)
 
-
+---
 
 ```latex
 \alpha = \beta
@@ -94,3 +97,11 @@ $$e^{i\pi} + 1 = 0$$
     - It is said that this book is good, but I don't know well.
 - 『計算で身につくトポロジー』 阿原 一志著
     - This is one of the book I want.
+    
+---
+## 7. Book list
+
+- コホモロジーのこころ
+- ホモロジー代数　河田
+- 代数的トポロジー
+- トポロジー　田村
