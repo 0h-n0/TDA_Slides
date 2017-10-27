@@ -131,7 +131,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 ---
 ## 3. Homology.
 
-####  Simple Complex
+####  Simplical Complex
 
 ![Default-aligned image](https://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/journal.pone.0126383.g001.PNG)
 
@@ -153,7 +153,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
-\Z_k := ker ( \partial_k : C_k \to C\\_{k+1}) \\ 
+\Z_k := ker ( \partial_k : C_k \to C\\_i k+1) \\ 
 \end{array}
 $$
 
@@ -184,8 +184,8 @@ B_k:= Im ( \partial_k+1 : C_k _+ _1 \to  )
     - Japanese good reference book about abstract algebra.
     
 ### Homology
-- https://www.youtube.com/watch?v=EA1FFtTGAfw
-    - American university's lecture videos about introduction and application of homology on Youtube.
+.small[- https://www.youtube.com/watch?v=EA1FFtTGAfw
+    - American university's lecture videos about introduction and application of homology on Youtube. ]
 - 『Computational Homology (Applied Mathematical Sciences)』(2004)
     - There are a lot of information that homology is applied for image data.
 - 『Elementary Applied Topology』(2014)
