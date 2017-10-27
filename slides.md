@@ -226,7 +226,6 @@ $$
 $$ 0 \to C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
 
 $$
-C_0 = \\{
 \partial_1 = \left(
 \begin{array}{c}
     1  \\\
@@ -241,7 +240,7 @@ $$
 $$ 
 \begin{array}
 H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
-& = 5 - 2 = 3
+& = 5 - 1 = 4
 \end{array}
 $$
 ---
@@ -258,7 +257,29 @@ $$
 .center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.2.png)]
 
 ---
+## 5. Let's caluculate low-dimension Homology.
 
+$$ 0 \to C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
+
+$$
+\partial_1 = \left(
+\begin{array}{c}
+    1 & 0 \\\
+    1 & 0 \\\
+    0 & 1 \\\
+    0 & 1 \\\
+    0 & 0
+\end{array}\right)
+$$  
+
+$$ 
+\begin{array}
+H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+& = 5 - 2 = 3
+\end{array}
+$$
+
+---
 ## 5. Let's caluculate low-dimension Homology.
 
 $$
@@ -271,6 +292,40 @@ K = C_0 \cup C_1 \cup C_2
 $$
 
 .center[![image](http://raw.githubusercontent.com/0h-n0/TDA_Slides/images/src/example_0.3.png)]
+
+---
+## 5. Let's caluculate low-dimension Homology.
+
+$$ 0 \to C_2 \xrightarrow{\partial_2} C_1 \xrightarrow{\partial_1} C_0 \xrightarrow{\partial_0} 0$$
+
+$$ 
+\partial_2 = \left(
+\begin{array}{c}
+    1 & 1 & 0 & 0 & 0\\\
+    1 & 0 & 1 & 0 & 0\\\
+    0 & 0 & 1 & 1 & 1\\\
+    0 & 1 & 0 & 1 & 0\\\
+    0 & 0 & 0 & 0 & 1
+\end{array}\right)
+$$
+
+$$ 
+\partial_1 = \left(
+\begin{array}{c}
+    1  \\\
+    0  \\\
+    1  \\\
+    1  \\\
+    0 
+\end{array}\right)
+$$ 
+
+$$ 
+\begin{array}
+H_0(K) &= dim(ker(\partial_0)) - dim(im(d(p+1))) \\\
+& = 5 - 2 = 3
+\end{array}
+$$
 
 ---
 ## 6. References 1
