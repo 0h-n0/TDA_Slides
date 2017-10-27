@@ -66,7 +66,33 @@ def circle(seed, nsample, scale):
     ani = animation.FuncAnimation(fig, plot, frames=range(100), fargs=fargs, interval=100)
     ani.save("circle.mp4")
 
-    
+@ex.command
+def example(seed):
+    fig = plt.figure()    
+    ax = fig.add_subplot(111)
+    np.random.seed(seed)
+    xy = np.random.random((5, 2))
+    nsample = 5
+    x = xy[:,0]
+    y = xy[:,1]
+    dmat = dist.cdist(xy, xy)
+    r = 0.1
+    seq = 'abcde'
+    for i in range(nsample):
+        c = plt.Circle((x[i], y[i]), r, color='r', alpha=0.1)
+        ax.add_artist(c)            
+        plt.text(x[i], y[i]-0.02, seq[i], ha='center', fontsize=20)
+        for j in range(i, nsample):        
+            if dmat[i, j] / 2 < r:
+                _xy = np.stack((xy[i, :], xy[j, :]))
+                _x = _xy[:, 0]
+                _y = _xy[:, 1]                
+                ax.plot(_x, _y, c='b', alpha=0.2)
+    ax.axis('equal')    
+    ax.set_xlim([-0.2, 1.3])
+    ax.set_ylim([-0.5, 1.5])
+    plt.savefig(f'example_{r}.png')
+
 @ex.automain
 def main(datatype):
     if datatype == 'random':
