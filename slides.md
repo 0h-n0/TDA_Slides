@@ -48,7 +48,7 @@ name: agenda
 
 --
 
-- These mathematical methods are for analyzing **phase**.
+.emphasize[ These mathematical methods are for analyzing **phase**. ]
 
 .emphasize[ To find out "Topological Invariant"]
     
