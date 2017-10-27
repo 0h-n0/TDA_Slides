@@ -152,7 +152,7 @@ $${\mathbb K} : \subset K^0 \subset K^1 \cdots \subset K^t \subset \cdots$$
 
 $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
-$$Z_k:= ker ( \partial_k : C_k \to C_{k-1} )$$
+$$Z_k:= ker ( \partial_k : C_k \to  )$$
 
 ---
 ## 4. Persistent Homology.
