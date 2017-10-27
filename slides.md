@@ -222,7 +222,7 @@ $$
 
 ---
 $$
-C_1 = \left{
+C_1 = \\{
 a = \left(
 \begin{array}{c}
     1  \\\
@@ -264,7 +264,7 @@ e = \left(
     0  \\\
     1 
 \end{array}\right)
-\right}
+\\}
 $$
 
 $$
