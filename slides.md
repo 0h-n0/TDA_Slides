@@ -38,7 +38,7 @@ name: agenda
 
 ---
 ## 1. What is TDA? (Overview of TDA)
-
+s
 .center[<iframe width="640" height="360" src="//www.youtube.com/embed/XfWibrh6stw?rel=0" frameborder="0" allowfullscreen></iframe>]
 
 
@@ -116,11 +116,19 @@ $$e^{i\pi} + 1 = 0$$
 
 ###  Defintion of Homology Group.
 
-$$e^{i\pi} + 1 = 0$$
+$$H_k(K) = Z_k(K) / B_k(K)$$
 
 ---
 
 ## 4. Persistent Homology.
+
+###  Defintion of Persistent Homology Group.
+
+For finite filltration of simple complex, k-dimension Persistent Homology Group is
+
+
+$$PH_k({\mathb K}) = Z_k({\mathb K}) / B_k({\mathb K})$$
+
 
 ---
 
