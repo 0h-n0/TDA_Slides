@@ -41,7 +41,7 @@ name: agenda
 
 #### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
-- .footnote[.red.bold[Topological] means] ...
+- .red.bold[Topological] means ...
 
 --
 
@@ -89,9 +89,7 @@ smoe note.
 
 ---
 
-```latex
-\alpha = \beta
-```
+*  here
 
 2. More `\(x={a \over b}\)` formulae.
  
