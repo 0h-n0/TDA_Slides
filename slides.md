@@ -328,6 +328,11 @@ dim(H_0(K)) &= dim(ker(\partial_0)) - dim(im(\partial_1)) \\\
 $$
 
 ---
+
+This is just introduction of TDA.
+There is a deep deep mathematical world in TDA...
+
+---
 ## 6. References 1
 ### Group Theory
 -  https://www.youtube.com/watch?v=VdLhQs_y_E8
