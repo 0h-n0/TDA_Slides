@@ -153,7 +153,7 @@ $$PH_k({\mathbb K}) = Z_k({\mathbb K}) / B_k({\mathbb K})$$
 
 $$
 \begin{array}
-\Z_k := ker ( \partial_k : C_k \to C\\_i k+1) \\ 
+\Z_k := ker ( \partial_k : C_k \to C\_i \sum_{k+1}) \\ 
 \end{array}
 $$
 
