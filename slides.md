@@ -3,11 +3,14 @@ layout: true
 class: center, middle, inverse
 ---
 # Introduciton to TDA
+#### 28/10/2017
 #### Koji Ono
 #### My Major was biology.
 #### So I'm not familiar with Mathmatics...
 ---
 layout:false
+name: agenda
+
 ## Agenda
 
 ### 1. What is TDA? (Overview of TDA)
@@ -38,7 +41,7 @@ layout:false
 
 #### **TDA** stands for **T**oplogical **D**ata **A**nalysis
 
-- **Topological** means ...
+- .red.bold[Topological] means ...
 
 --
 
@@ -47,6 +50,7 @@ layout:false
 --
 
     - Geometric topology.
+    
     - Homotopy theory.
     - Homology.
     - etc.
@@ -55,6 +59,9 @@ layout:false
 
 ##### To find out "Topological Invariant"
     
+???
+smoe note.
+
 
 ---
 ## 1. What is TDA? (Overview of TDA)
