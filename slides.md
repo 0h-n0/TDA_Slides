@@ -222,7 +222,7 @@ $$
 
 ---
 $$
-C_1 = \\left{
+C_1 = \left{
 a = \left(
 \begin{array}{c}
     1  \\\
@@ -264,7 +264,7 @@ e = \left(
     0  \\\
     1 
 \end{array}\right)
-\\right}
+\right}
 $$
 
 $$
@@ -276,7 +276,6 @@ C2 = \left(
     0 & 0 & 0 & 0 & 0 \\\
     0 & 0 & 0 & 0 & 0 \\\
 \end{array}\right)
-\\right}
 $$
 ---
 
