@@ -127,7 +127,7 @@ $$H_k(K) = Z_k(K) / B_k(K)$$
 For finite filltration of simple complex
 
     
-$${\mathbb K} : \in K^0 \in K^1 \cdots \in \in K^t \in \cdots
+$${\mathbb K} : \in K^0 \in K^1 \cdots \in \in K^t \in \cdots$$
 
 , k-dimension Persistent Homology Group is
 
