@@ -219,7 +219,11 @@ $$
 ---
 $$C_1$$
 
-$$\begin{pmatrix}a & b\\\ c & d\end{pmatrix}$$
+$$
+a = \begin{pmatrix}1 \\\ 0 \\\ 0 \\\0 \\\ 0end{pmatrix}
+b = \begin{pmatrix}0 \\\ 1 \\\ 0 \\\0 \\\ 0end{pmatrix}
+
+$$
 
 ---
 
